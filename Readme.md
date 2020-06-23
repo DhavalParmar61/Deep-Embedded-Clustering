@@ -1,1 +1,1 @@
-Here I have implemented Deep Embedded Clustering (DEC) algorithm. I have tested it on MNIST data set. I am getting clustering accuracy of 85.05%. Learned features are shown in figure.
+Here I have implemented Deep Embedded Clustering (DEC) algorithm. I have tested it on MNIST data set. I am getting clustering accuracy of 85.05%. Learned feature clusters are shown in figure.
